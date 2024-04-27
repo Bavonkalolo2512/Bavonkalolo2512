@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bavonkalolo
+- 👋 Hi, I’m Bavon Kalolo
 - 👀 I’m interested in Data Analytics And Busness Intelligence
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on any Project about Data 
